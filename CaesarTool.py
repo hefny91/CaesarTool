@@ -8,7 +8,6 @@
 import Frequency as FrequencyChecker                                                #### I struggled to get the idea of correlation, read many resources, worked on my own script, but eventually, I read and understood the following article and relied on the code in following article https://inventwithpython.com/hacking/chapter20.html, we imported it to be used in Bruteforce.
 print('\n' + '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
 print('\n' + 'CAESAR CIPHER GENERATION TOOL - IGSR - 1404709 - Spring 2021')
-print('\n' + '        Prepared by ahmedhefny@alexu.edu.eg                 ')
 print('\n' + '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
 menu_string = '\n' + 'Please select the required operation:' + '\n' + \
                 'MENU' + '\n' + \
